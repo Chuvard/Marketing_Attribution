@@ -2,9 +2,9 @@
 
 SQL queries to define marketing attribution
 
-## During this project, we will analyze CoolTShirts database to identify first- and second touches from customers as well as to identify their incentives to purchase beginning from the first visit to the site.
+## During this project, we will analyze the CoolTShirts database to identify first- and second touches from customers as well as to identify their incentives to purchase beginning from the first visit to the site.
 
-The dataset describes each time a user visits the CoolTShirts website, and it grouped into one SQL table named "page_visits".
+The dataset describes each time a user visits the CoolTShirts website, and it is grouped into one SQL table named "page_visits".
 
 The given SQL table includes the following columns:
 
@@ -12,4 +12,4 @@ The given SQL table includes the following columns:
 	2. timestamp			    - the time at which the visitor came to the page
 	3. 'page_name’ 		    - the title of the section of the page that was visited	
 	4. 'utm_source’ 		  - identifies which site sent the traffic (i.e., Google, newsletter, or Facebook ad)	
-	5. 'utm_campaign’ 	  - identifies the specific ad or email blast (i.e., june-21newsletter or memorial-day-sale)
+	5. 'utm_campaign’ 	  - identifies the specific ad or email blast (i.e., June-21newsletter or memorial-day-sale)
